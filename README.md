@@ -19,10 +19,8 @@ SQL remains one of the most essential tools for data analysts, engineers, and an
 
 ## 🙌 Credits
 
-A huge thank you to [@Danny Ma](https://www.linkedin.com/in/danny-ma/) for creating the **[8 Week SQL Challenge](https://8weeksqlchallenge.com/)** and the accompanying **Danny's Diner** dataset. The structure, clarity, and progression of the exercises made learning both fun and practical.
+A huge thank you to [@Rafael Jorge](https://www.linkedin.com/in/rafaelljorge/) for creating the [SQL Challenge](https://github.com/Rafael-L-Jorge/SQL-Exercises)** dataset. The structure, clarity, and progression of the exercises made learning practical.
 
 ---
 
-If you're looking to sharpen your SQL skills, I highly recommend checking out Danny’s challenge. Feel free to reach out if you want to exchange insights or collaborate on data projects!
-
-#SQL #DataAnalytics #LearningJourney #SQLChallenge #LinkedInLearning #GabrielLearnsSQL
+If you're looking to sharpen your SQL skills, I highly recommend checking out Rafael's challenge. Feel free to reach out if you want to exchange insights or collaborate on data projects!
